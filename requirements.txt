@@ -5,3 +5,9 @@ numpy
 pandas
 matplotlib
 seaborn
+
+transformers
+datasets
+torch torchvision --index-url https://download.pytorch.org/whl/cpu
+
+scikit-learn
